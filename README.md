@@ -21,7 +21,6 @@
     //设置图片滚动方向
     autoCycleScrollView.scrollDirection = DXAutoCycleScrollViewDirectionVertical;
     
-    
     //设置代理
     autoCycleScrollView.delegate = self;
     
