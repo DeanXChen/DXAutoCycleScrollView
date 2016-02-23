@@ -10,7 +10,7 @@
 #import "DXAutoCycleScrollView.h"
 
 @interface ViewController () <DXAutoCycleScrollViewDelegate>
-@property(nonatomic, weak)DXAutoCycleScrollView *autoCycleScrollView;
+
 @end
 
 @implementation ViewController
